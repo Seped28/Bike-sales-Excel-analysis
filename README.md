@@ -6,4 +6,4 @@ The source file can be downloaded here https://github.com/AlexTheAnalyst/Excel-T
 
 The analysis shows the Sale distribution of company across a region.
 
-![Project dashboard](https://github.com/Seped28/Oluwaseun_Portfolio/blob/main/Divvy_trips_Project/Rmrk1.png)
+![Project dashboard](https://github.com/Seped28/Excel-analysis/blob/main/Bike%20sales%20dash%20board.jpg)
